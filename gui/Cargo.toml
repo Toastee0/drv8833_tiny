@@ -1,0 +1,9 @@
+[package]
+name = "Drv8833tinyNC"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+eframe = { version = "0.36.2", features = ["persistence"] }
+serde = { version = "1.0.229", features = ["derive"] }
+serialport = "4.10.1"

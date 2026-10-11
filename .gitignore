@@ -1,0 +1,8 @@
+# ESP-IDF
+build/
+sdkconfig
+sdkconfig.old
+managed_components/
+
+# Rust
+gui/target/
